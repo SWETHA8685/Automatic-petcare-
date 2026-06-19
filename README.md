@@ -1,4 +1,4 @@
-<img width="1721" height="465" alt="image" src="https://github.com/user-attachments/assets/8805f60a-bf78-4665-96e6-04b8c5fc4efd" /><img width="1721" height="465" alt="image" src="https://github.com/user-attachments/assets/1d478fcf-be58-4f25-97bb-d945a4cf94e7" /># Automatic Petcare
+
 
 Android app built with Java and Firebase for managing pet care tasks.
 demo link
